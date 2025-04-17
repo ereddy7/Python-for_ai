@@ -1,2 +1,2 @@
-# eswar-ai-basics
+# Python_for_ai
 Python and Other Basics
